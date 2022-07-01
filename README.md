@@ -1,4 +1,4 @@
-# Hacker Rank Solutions
-My solutions for Hacker Rank challenges.
+# Hackerrank Solutions
+My solutions for Hackerrank challenges.
 
 >[Profile](https://www.hackerrank.com/SteffenLeonardo)
